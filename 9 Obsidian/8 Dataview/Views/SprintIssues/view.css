@@ -1,0 +1,17 @@
+.pvs-warning {
+	color: red;
+	text-align: center;
+}
+
+.pvs-outter {
+	display: inline-block;
+	width: 120px;
+	height: 8px;
+	border: 1px solid;
+}
+
+.pvs-inner {
+	width: 30px;
+	height: 7px;
+	background-color: green;
+}
